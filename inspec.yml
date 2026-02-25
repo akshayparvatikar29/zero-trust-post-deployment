@@ -1,0 +1,5 @@
+name: zero-trust-baseline
+title: Zero Trust Governance Baseline
+version: 1.0.0
+supports:
+  - os-family: linux
